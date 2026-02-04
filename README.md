@@ -11,6 +11,8 @@ Example:
 go run main.go data.txt
 go run main.go mydata.txt
 
+A sample data file (data.txt) is included in the repository for testing.
+
 HOW TO CREATE YOUR OWN DATA FILE
 Create a text file with one number per line:
 1. Open any text editor
